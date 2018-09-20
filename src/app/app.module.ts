@@ -8,6 +8,7 @@ import { NewsItemComponent } from './news-item/news-item.component';
 import { HeaderComponent } from './header/header.component';
 
 import { NewsMonitoringListComponent } from './news-monitoring-list/news-monitoring-list.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { NewsMonitoringListComponent } from './news-monitoring-list/news-monitor
     NewsMonitoringListComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
