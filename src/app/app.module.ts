@@ -16,7 +16,6 @@ import { NewsMonitoringListComponent } from './news-monitoring-list/news-monitor
     NewsDetailsComponent,
     NewsItemComponent,
     HeaderComponent,
- 
     NewsMonitoringListComponent
   ],
   imports: [
