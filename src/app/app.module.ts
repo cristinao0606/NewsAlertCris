@@ -17,7 +17,6 @@ import { AppRoutingModule } from './app-routing.module';
     NewsDetailsComponent,
     NewsItemComponent,
     HeaderComponent,
- 
     NewsMonitoringListComponent
   ],
   imports: [
