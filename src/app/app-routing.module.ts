@@ -1,8 +1,8 @@
 import { NgModule } from "@angular/core";
 import {Routes, RouterModule} from '@angular/router';
-import { NewsListComponent } from "./news-list/news-list.component";
-import { NewsDetailsComponent } from "./news-details/news-details.component";
-import { NewsMonitoringListComponent } from './news-monitoring-list/news-monitoring-list.component';
+import { NewsListComponent } from "./newsPressMonitoring/news-list/news-list.component";
+import { NewsDetailsComponent } from "./newsPressMonitoring/news-details/news-details.component";
+import { NewsMonitoringListComponent } from './newsPressMonitoring/news-monitoring-list/news-monitoring-list.component';
 
 
 
